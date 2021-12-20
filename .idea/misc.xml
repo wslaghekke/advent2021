@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="method" FQNAME="Day1Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day2Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day3Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day4Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day5Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day6Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day7Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day8Kt void main()" />
+    </entry_points>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
