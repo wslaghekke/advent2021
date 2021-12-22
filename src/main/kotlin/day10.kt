@@ -5,8 +5,7 @@ fun main() {
     val lines = File("input/day10.txt").readLines()
 
     var totalSyntaxErrorScore = 0
-    var autocompleteScores = mutableListOf<BigInteger>()
-
+    val autocompleteScores = mutableListOf<BigInteger>()
 
     for (line in lines) {
         // Cant inline because then kotlin type inference fails
