@@ -10,6 +10,11 @@
       <entry_point TYPE="method" FQNAME="Day6Kt void main()" />
       <entry_point TYPE="method" FQNAME="Day7Kt void main()" />
       <entry_point TYPE="method" FQNAME="Day8Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day9Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day10Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day11Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day12Kt void main()" />
+      <entry_point TYPE="method" FQNAME="Day13Kt void main()" />
     </entry_points>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
